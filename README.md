@@ -4,7 +4,7 @@ ESP32 micropython implementation of Art-Net client
 # Instalation
 Use [thonny](https://thonny.org/)
 Open the root folder in thonny and upload the Empire folder like in the screenshot:
-(/doc/images/install.png)
+![install screenshot](/doc/images/install.png)
 
 # Usage
 ```python
